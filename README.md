@@ -6,8 +6,6 @@
   <em>Systems Engineering Student | Cybersecurity Enthusiast | Backend Developer</em>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario_github&layout=compact&theme=dark&bg_color=0A0A0A" width="250px"/>
-
 ## 👋 About Me
 
 I'm Erik Herrera, a Systems Engineering student at the [Central University of Ecuador](http://uce.edu.ec), passionate about cybersecurity, backend development, and automation. I enjoy solving real-world problems with software and I'm currently building my own home server while learning Linux system administration.
