@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm L4Ta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <em>Systems Engineering Student | Cybersecurity Enthusiast | Backend Developer</em>
+  <em>Systems Engineering Student | Cybersecurity Enthusiast </em>
 </p>
 
 ## 👋 About Me
