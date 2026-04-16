@@ -18,33 +18,10 @@ I'm Erik Herrera, a Systems Engineering student at the [Central University of Ec
 
 ## 🧰 Tech Stack
 
-- 🔧 **Proficient with**: Java, Python, Spring Boot, Flask, PostgreSQL, Git, Linux
-- 📚 **Currently learning**: Docker, Kubernetes, Vim, Cybersecurity tools (e.g. Metasploit, Wireshark)
-- 🌱 **Exploring**: Unity, ESP32 (IoT for digital twins project), OpenCV
+- 🔧 **Proficient with**: Java, Python, Flask, PostgreSQL, Git, Linux
+- 📚 **Currently learning**: Docker, Vim, Cybersecurity tools (e.g. Metasploit, Wireshark)
 
 ---
 
-## 🛠️ Languages and Tools
-
-### Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,spring,flask" />
-  </a>
-</p>
-
-### Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sql" />
-  </a>
-</p>
-
-### Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,vim,postman,linux,github,figma,vscode,idea&perline=4" />
-  </a>
-</p>
 
 
