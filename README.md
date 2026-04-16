@@ -47,26 +47,4 @@ I'm Erik Herrera, a Systems Engineering student at the [Central University of Ec
   </a>
 </p>
 
----
 
-## 🌐 Connect with me 🤝
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eric-santiago-herrera/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/L4Ta_10001001" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/l4ta10001001" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
