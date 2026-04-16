@@ -16,10 +16,56 @@ I'm Erik Herrera, a Systems Engineering student at the [Central University of Ec
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Language and tools
 
-- 🔧 **Proficient with**: Java, Python, Flask, PostgreSQL, Git, Linux
-- 📚 **Currently learning**: Docker, Vim, Cybersecurity tools (e.g. Metasploit, Wireshark)
+### 🖥️ OS & Environment
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,linux,kali&perline=10" />
+  </a>
+</p>
+
+### ⚙️ Shell & Editors
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,neovim,obsidian&perline=10" />
+  </a>
+</p>
+
+### 🔗 Version Control
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github&perline=10" />
+  </a>
+</p>
+
+### 💻 Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html&perline=10" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=10" />
+  </a>
+</p>
+
+### 🚀 DevOps & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,postman&perline=10" />
+  </a>
+</p>
+
+### 🎨 Design & IDEs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode&perline=10" />
+  </a>
+</p>
 
 ---
 
